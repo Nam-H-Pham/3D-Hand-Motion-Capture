@@ -1,4 +1,4 @@
-# 3D-Hand-Animator
+# 3D-Hand-Motion-Capture
 Translate recorded hand video footage to a Blender hand armature.
 
 # Demo
